@@ -2,5 +2,5 @@
 [Python à partir de zéro](https://fr.futurecoder.io/course/#IntroducingTheShell)
 
 ## Algorithmique
-* activité suivi de variables [corrigé_algo1_algo2](Activité suivi de variables_CORR.pdf)
+* activité suivi de variables [corrigé algo1 et algo2](Act_variables_CORR.pdf)
 

@@ -3,4 +3,8 @@
 
 ## Algorithmique
 * activité suivi de variables [corrigé algo1 et algo2](Act_variables_CORR.pdf)
-
+* correction du [TP1]()
+### QCM
+* IF et WHILE
+   * [entraînement](https://genumsi.inria.fr/qcm.php?h=fe6a3fbf661fa788372e48edda22de77)
+   * [EVAL](https://genumsi.inria.fr/qcm.php?h=2c2b3947e074e5692fe366ce24226797)

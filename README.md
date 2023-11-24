@@ -6,6 +6,7 @@
 * correction du [TP1](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP1_CORRECTION.ipynb)
 * [code pour TP2](TP2.py)
 * [TP3 bis](TP3bis)
+* [TP5 : correction des exos n°1,2,3,4](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP5_CORR1.2.3.4.ipynb)
 ### QCM
 * IF et WHILE
    * [entraînement](https://genumsi.inria.fr/qcm.php?h=fe6a3fbf661fa788372e48edda22de77)

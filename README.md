@@ -7,7 +7,12 @@
 * [code pour TP2](TP2.py)
 * [TP3 bis](TP3bis)
 * [TP5 : correction des exos n°1,2,3,4](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP5_CORR1.2.3.4.ipynb)
+* [**Tableau de taille variable : travail perso**](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TRAINING-TAB2.ipynb)
 ### QCM
 * IF et WHILE
    * [entraînement](https://genumsi.inria.fr/qcm.php?h=fe6a3fbf661fa788372e48edda22de77)
    * [EVAL](https://genumsi.inria.fr/qcm.php?h=2c2b3947e074e5692fe366ce24226797)
+ * **TABLEAUX**
+   * [entraînement1](https://genumsi.inria.fr/qcm.php?h=1e5ddedcf1765531b10cf88ffac15826)
+   * [entraînement2](https://genumsi.inria.fr/qcm.php?h=aebca6a81b945d2c9172b0926c88c50a)
+   * [EVAL](https://genumsi.inria.fr/qcm.php?h=0bb2a55f65ad59079e703b513322fffe)

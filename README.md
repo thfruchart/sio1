@@ -14,5 +14,5 @@
    * [EVAL](https://genumsi.inria.fr/qcm.php?h=2c2b3947e074e5692fe366ce24226797)
  * **TABLEAUX**
    * [entraînement1](https://genumsi.inria.fr/qcm.php?h=1e5ddedcf1765531b10cf88ffac15826)
-   * [entraînement2](https://genumsi.inria.fr/qcm.php?h=aebca6a81b945d2c9172b0926c88c50a)
+   * [entraînement2](https://genumsi.inria.fr/qcm.php?h=6748243c98976aa8b424362737cb4688)
    * [EVAL](https://genumsi.inria.fr/qcm.php?h=0bb2a55f65ad59079e703b513322fffe)

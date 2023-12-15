@@ -9,6 +9,8 @@
 * [TP5 : correction des exos n°1,2,3,4](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP5_CORR1.2.3.4.ipynb) + [Correction Exos 5](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP5_exo_5CORR.ipynb)
 * [suivi TABLEAU de taille variable](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/SuiviTAB2.ipynb)
 * [**Tableau de taille variable : travail perso**](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TRAINING-TAB2.ipynb)
+* [TP6](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP6_CORR.ipynb)
+* 
 ### QCM
 * IF et WHILE
    * [entraînement](https://genumsi.inria.fr/qcm.php?h=fe6a3fbf661fa788372e48edda22de77)

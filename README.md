@@ -11,7 +11,8 @@
 * [Tableau de taille variable : travail perso](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TRAINING-TAB2.ipynb)
 * [TP6](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP6_CORR.ipynb)
 * [TP7](TP7)
-* [**TP8**](TP8_init.py) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP8_CORRECTION.ipynb)
+* [TP8](TP8_init.py) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP8_CORRECTION.ipynb)
+* [TP9 : conversions en binaire => version corrigée](TP9.py)
 ### QCM
 * IF et WHILE
    * [entraînement](https://genumsi.inria.fr/qcm.php?h=fe6a3fbf661fa788372e48edda22de77)

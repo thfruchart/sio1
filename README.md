@@ -13,6 +13,8 @@
 * [TP7](TP7)
 * [TP8](TP8_init.py) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP8_CORRECTION.ipynb)
 * [TP9 : conversions en binaire => version corrigée](TP9.py)
+* [TP10-Tableau-Moyenne_CORRECTION](TP10-Tableau-Moyenne_CORRECTION.pdf)
+* [**TP11.py**](TP11.py)
 ### QCM
 * IF et WHILE
    * [entraînement](https://genumsi.inria.fr/qcm.php?h=fe6a3fbf661fa788372e48edda22de77)

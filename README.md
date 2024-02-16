@@ -14,7 +14,7 @@
 * [TP8](TP8_init.py) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP8_CORRECTION.ipynb)
 * [TP9 : conversions en binaire => version corrigée](TP9.py)
 * [TP10-Tableau-Moyenne_CORRECTION](TP10-Tableau-Moyenne_CORRECTION.pdf)
-* [**TP11.py**](TP11.py)
+* [**TP11.py**](TP11.py) + [Sujet.pdf](TP11_tableau_magique.pdf)
 * [Bonus](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/proj/MultiDiv-projet.ipynb)
 ### QCM
 * IF et WHILE

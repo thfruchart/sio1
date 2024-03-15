@@ -21,6 +21,7 @@
    * [**Sujet**](PistesSKI.pdf)
    * [code fourni](SKI_TP.py) 
 * [Bonus](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/proj/MultiDiv-projet.ipynb)
+* [de multiple en diviseur](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/proj/MultiDiv-projet.ipynb)
 ### QCM
 * IF et WHILE
    * [entraînement](https://genumsi.inria.fr/qcm.php?h=fe6a3fbf661fa788372e48edda22de77)

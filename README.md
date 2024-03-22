@@ -1,5 +1,5 @@
 # BTS SIO1
-* [**TP13 : calcul matriciel**](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP_matrices.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP_matrices_CORR.ipynb)
+* [**TP13 : calcul matriciel**](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP_matrices.ipynb) => [correction](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP_matrices_Corr.ipynb)
 ## S'exercer sur [futurecoder](https://fr.futurecoder.io/course/#toc)
 * [Boucles for](https://fr.futurecoder.io/course/#IntroducingForLoops)
 * [**Les fonctions**](https://fr.futurecoder.io/course/#DefiningFunctions)

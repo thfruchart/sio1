@@ -18,8 +18,9 @@
 * [TP10-Tableau-Moyenne_CORRECTION](TP10-Tableau-Moyenne_CORRECTION.pdf)
 * [TP11.py](TP11.py) + [Sujet.pdf](TP11_tableau_magique.pdf)
 * TP12 : pistes de ski
-   * [**Sujet**](PistesSKI.pdf)
-   * [code fourni](SKI_TP.py) 
+   * [Sujet](PistesSKI.pdf)
+   * [code fourni](SKI_TP.py)
+* [**TP13 : calcul matriciel**](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP_matrices.ipynb)
 * [Bonus](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/proj/MultiDiv-projet.ipynb)
 * [de multiple en diviseur](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/proj/MultiDiv-projet.ipynb)
 ### QCM

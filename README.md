@@ -1,4 +1,5 @@
 # BTS SIO1
+* [**TP13 : calcul matriciel**](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP_matrices.ipynb)
 ## S'exercer sur [futurecoder](https://fr.futurecoder.io/course/#toc)
 * [Boucles for](https://fr.futurecoder.io/course/#IntroducingForLoops)
 * [**Les fonctions**](https://fr.futurecoder.io/course/#DefiningFunctions)
@@ -21,7 +22,7 @@
 * TP12 : pistes de ski
    * [Sujet](PistesSKI.pdf)
    * [code fourni](SKI_TP.py)
-* [**TP13 : calcul matriciel**](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP_matrices.ipynb)
+
 * [Bonus : de multiple en diviseur](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/proj/MultiDiv-projet.ipynb)
 ### QCM
 * IF et WHILE

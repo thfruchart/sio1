@@ -1,6 +1,7 @@
 # BTS SIO1
 ## S'exercer sur [futurecoder](https://fr.futurecoder.io/course/#toc)
 * [Boucles for](https://fr.futurecoder.io/course/#IntroducingForLoops)
+* [**Les fonctions**](https://fr.futurecoder.io/course/#DefiningFunctions)
 
 
 ## Algorithmique

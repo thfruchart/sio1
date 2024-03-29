@@ -1,5 +1,7 @@
 # BTS SIO1
-* [Puissance 4 (style CCF)](RévisionCCF-puissance4.pdf)
+* Puissance 4 (style CCF)
+  * [Sujet](RévisionCCF-puissance4.pdf)
+  * [code pour la partie B](Puissance4_A_COMPLETER.py)
 ## S'exercer sur [futurecoder](https://fr.futurecoder.io/course/#toc)
 * [Boucles for](https://fr.futurecoder.io/course/#IntroducingForLoops)
 * [**Les fonctions**](https://fr.futurecoder.io/course/#DefiningFunctions)

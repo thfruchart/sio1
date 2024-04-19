@@ -7,6 +7,7 @@
 * Puissance 4 (style CCF)
   * [Sujet](RévisionCCF-puissance4.pdf)
   * [code pour la partie B](Puissance4_A_COMPLETER.py)
+  * [code complet pour correction](Puissance4_CORR.py)
 ## S'exercer sur [futurecoder](https://fr.futurecoder.io/course/#toc)
 * [Boucles for](https://fr.futurecoder.io/course/#IntroducingForLoops)
 * [**Les fonctions**](https://fr.futurecoder.io/course/#DefiningFunctions)

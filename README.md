@@ -2,6 +2,9 @@
 ## style CCF
 * [**Automate cellulaire**](AutomateCellulaire)
 * [PacMan](CCF_PACMAN.pdf) + [code à compléter (partieB)](pacman_A_COMPLETER.py)
+  * [correction B1](pacman_CORR_B1.py)
+  * [correction B2](pacman_CORR_B2.py)
+  * [correction B3](pacman_CORR_B3.py)
 *  [Parking](SujetPARKING.pdf) => [Code_corrigé](Parking.py)
 * Puissance 4 (style CCF)
   * [Sujet](RévisionCCF-puissance4.pdf)

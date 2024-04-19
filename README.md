@@ -1,6 +1,7 @@
 # BTS SIO1
 ## style CCF
-* [**PacMan**](CCF_PACMAN.pdf) + [code à compléter (partieB)](pacman_A_COMPLETER.py)
+* [**Automate cellulaire**](AutomateCellulaire)
+* [PacMan](CCF_PACMAN.pdf) + [code à compléter (partieB)](pacman_A_COMPLETER.py)
 *  [Parking](SujetPARKING.pdf) => [Code_corrigé](Parking.py)
 *  [Bonus : de multiple en diviseur](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/proj/MultiDiv-projet.ipynb)
 * Puissance 4 (style CCF)

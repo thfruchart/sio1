@@ -11,7 +11,7 @@
   * [Sujet](RévisionCCF-puissance4.pdf)
   * [code pour la partie B](Puissance4_A_COMPLETER.py)
   * [code complet pour correction](Puissance4_CORR.py)
-* [Compression Noir et Blanc : code python complet)((https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/CCF-CompressNB.ipynb)
+* [Compression Noir et Blanc : code python complet](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/CCF-CompressNB.ipynb)
 ## S'exercer sur [futurecoder](https://fr.futurecoder.io/course/#toc)
 * [Boucles for](https://fr.futurecoder.io/course/#IntroducingForLoops)
 * [**Les fonctions**](https://fr.futurecoder.io/course/#DefiningFunctions)

@@ -2,6 +2,7 @@
 Algorithmique en BTS SIO
 
 ## Programmation Python
+* [semis.py](semis.py)
 ### Environnement de travail
 * EduPython
 * [Basthon(console)](https://console.basthon.fr/) 

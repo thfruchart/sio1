@@ -4,7 +4,7 @@ Algorithmique en BTS SIO
 ## Programmation Python
 * [semis.py](semis.py)
 * [chiffrement_affine.py](chiffrement_affine.py)
-* [TP_RSA](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/TP_RSA.ipynb)
+* [TP_RSA](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/refs/heads/main/TP_RSA.ipynb)
 
 
 ### Environnement de travail

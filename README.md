@@ -7,7 +7,7 @@ Algorithmique en BTS SIO
 * [TP_RSA](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/refs/heads/main/TP_RSA.ipynb)
 * pistes de ski
   - [sujet](Pistes_de_ski/PistesSKI.pdf)
-  - [code à compléter pour la partie B](Pistes_de_ski/SKI_TP.py)
+  - [](Pistes_de_ski/SKI_TP.py)
 
 
 ### Environnement de travail

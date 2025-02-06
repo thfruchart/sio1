@@ -9,7 +9,7 @@ Algorithmique en BTS SIO
 * pistes de ski
   - [sujet](Pistes_de_ski/PistesSKI.pdf)
   - [code à compléter](Pistes_de_ski/SKI_TP.py)
-* [TP_Taquin.py](TP_Taquin.py)
+* [TPTaquin.py](TPTaquin.py)
 
 
 

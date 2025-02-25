@@ -2,6 +2,7 @@
 Algorithmique en BTS SIO
 
 ## Programmation Python
+* [**Exercices pratiques**](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/)
 * [**Rappels de syntaxe**](MementoPython.pdf)
 * [semis.py](semis.py)
 * [chiffrement_affine.py](chiffrement_affine.py)

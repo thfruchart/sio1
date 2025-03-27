@@ -16,3 +16,21 @@ def occup(tab):
             test =  True
         i = i+1
     return test
+
+
+
+
+def mystere(tab):
+    resu = 0
+    for i in range(8):
+        val = tab[i]
+        resu = resu + val
+    return resu
+
+def places_dispo(tab):
+    places = [0,0,0,0]
+    for i in range(4):
+        etage = tab[i]
+        print(etage, mystere(etage))
+
+    return places

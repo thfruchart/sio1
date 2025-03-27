@@ -2,9 +2,10 @@
 Algorithmique en BTS SIO
 
 ## Programmation Python
-* [Exercices pratiques](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/)
-* [**Calcul matriciel**](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/refs/heads/main/ProduitMat.ipynb)
+* [**Parking**](SujetPARKING.pdf)
 * [**Rappels de syntaxe**](MementoPython.pdf)
+* [Exercices pratiques](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/)
+* [Calcul matriciel](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/refs/heads/main/ProduitMat.ipynb)
 * [semis.py](semis.py)
 * [chiffrement_affine.py](chiffrement_affine.py)
 * [TP_RSA](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/refs/heads/main/TP_RSA.ipynb)

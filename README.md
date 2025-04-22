@@ -2,10 +2,11 @@
 Algorithmique en BTS SIO
 
 ## Programmation Python
-* [**Puissance 4**](Puissance4)
+* [**CCF_Labyrinthe**](CCFLabyrinthe.pdf)
 * [*Rappels de syntaxe*](MementoPython.pdf)
 * [**Exercices pratiques**](https://pratique.forge.apps.education.fr/balayage/1-lecture_tab/)
 * [Parking](SujetPARKING.pdf)
+* [Puissance 4](Puissance4)
 * [Calcul matriciel](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/refs/heads/main/ProduitMat.ipynb)
 * [semis.py](semis.py)
 * [chiffrement_affine.py](chiffrement_affine.py)
